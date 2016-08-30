@@ -1,4 +1,5 @@
-It used sha1 hash defined in a torrent file to check integrity  
+NO WARRANTIES, JUST FUN
+It uses sha1 hash defined in a torrent file to check integrity  
 USAGE:  
 check file from torrent file:   
     main.py checkfile torrent\_file file\_to\_check  
